@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LifeCycle02</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="gender">Gender : </string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="birthday">Birthday</string>
+    <string name="check">Check</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="i_agree_to_terms_of_use">I agree to Terms of Use</string>
+    <string name="register">Register</string>
+    <string name="register_completed">Register Completed</string>
+    <string name="thank_you">Thank you !</string>
+    <string name="th_l_i">Try again</string>
+</resources>
